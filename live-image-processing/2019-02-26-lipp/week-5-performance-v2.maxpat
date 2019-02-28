@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ -1886.0, 78.0, 1582.0, 968.0 ],
+		"rect" : [ 34.0, 78.0, 1452.0, 1088.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -476,7 +476,7 @@
 					"outlettype" : [ "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 591.4000244140625, 67.0, 161.0, 22.0 ],
-					"prefix" : "Macintosh HD:/Users/adahiya/dev/footage/live image/week 5 performance/",
+					"prefix" : "git:/itp/max-patches/assets/video/week 5 performance/",
 					"presentation" : 1,
 					"presentation_rect" : [ 330.0, 15.0, 240.0, 22.0 ]
 				}
@@ -819,11 +819,11 @@
 					"patching_rect" : [ 1239.0, 350.0, 24.0, 24.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_mmax" : 1.0,
 							"parameter_shortname" : "button[1]",
 							"parameter_enum" : [ "off", "on" ],
 							"parameter_type" : 2,
-							"parameter_longname" : "button[1]",
-							"parameter_mmax" : 1.0
+							"parameter_longname" : "button[1]"
 						}
 
 					}
@@ -846,10 +846,10 @@
 					"presentation_rect" : [ 405.0, 202.450103759765625, 90.0, 90.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_mmax" : 1.0,
 							"parameter_shortname" : "dial[3]",
 							"parameter_type" : 0,
-							"parameter_longname" : "dial[3]",
-							"parameter_mmax" : 1.0
+							"parameter_longname" : "dial[3]"
 						}
 
 					}
@@ -921,10 +921,10 @@
 					"presentation_rect" : [ 192.0, 199.90008544921875, 93.0, 93.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_mmax" : 29.0,
 							"parameter_shortname" : "dial[1]",
 							"parameter_type" : 0,
-							"parameter_longname" : "dial[1]",
-							"parameter_mmax" : 29.0
+							"parameter_longname" : "dial[1]"
 						}
 
 					}
@@ -947,10 +947,10 @@
 					"presentation_rect" : [ 75.39996337890625, 199.90008544921875, 95.10003662109375, 95.10003662109375 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_mmax" : 29.0,
 							"parameter_shortname" : "dial",
 							"parameter_type" : 0,
-							"parameter_longname" : "dial",
-							"parameter_mmax" : 29.0
+							"parameter_longname" : "dial"
 						}
 
 					}
@@ -997,7 +997,7 @@
 					"outlettype" : [ "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 271.20001220703125, 71.0, 161.0, 22.0 ],
-					"prefix" : "Macintosh HD:/Users/adahiya/dev/footage/live image/week 5 performance/",
+					"prefix" : "git:/itp/max-patches/assets/video/week 5 performance/",
 					"presentation" : 1,
 					"presentation_rect" : [ 75.0, 15.0, 225.0, 22.0 ]
 				}
@@ -1664,11 +1664,11 @@
 					"presentation_rect" : [ 15.0, 15.0, 45.0, 45.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_mmax" : 1.0,
 							"parameter_shortname" : "toggle",
 							"parameter_enum" : [ "off", "on" ],
 							"parameter_type" : 2,
-							"parameter_longname" : "toggle",
-							"parameter_mmax" : 1.0
+							"parameter_longname" : "toggle"
 						}
 
 					}
@@ -2677,16 +2677,16 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-8" : [ "dial", "dial", 0 ],
 			"obj-141" : [ "button[1]", "button[1]", 0 ],
-			"obj-46" : [ "dial[4]", "dial[2]", 0 ],
-			"obj-49" : [ "dial[5]", "dial[2]", 0 ],
-			"obj-148" : [ "dial[7]", "dial[2]", 0 ],
-			"obj-111" : [ "dial[2]", "dial[2]", 0 ],
-			"obj-10" : [ "dial[1]", "dial[1]", 0 ],
-			"obj-138" : [ "dial[3]", "dial[3]", 0 ],
 			"obj-11" : [ "toggle", "toggle", 0 ],
+			"obj-111" : [ "dial[2]", "dial[2]", 0 ],
 			"obj-120" : [ "dial[6]", "dial[2]", 0 ],
+			"obj-46" : [ "dial[4]", "dial[2]", 0 ],
+			"obj-138" : [ "dial[3]", "dial[3]", 0 ],
+			"obj-148" : [ "dial[7]", "dial[2]", 0 ],
+			"obj-10" : [ "dial[1]", "dial[1]", 0 ],
+			"obj-8" : [ "dial", "dial", 0 ],
+			"obj-49" : [ "dial[5]", "dial[2]", 0 ],
 			"parameterbanks" : 			{
 
 			}
