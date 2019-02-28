@@ -1,2 +1,3 @@
-# max-patches
-Max patches
+# Max patches
+
+Audio/visual experiences & performance tools
